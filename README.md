@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔹 I’m Ata, a technology enthusiast.
-- 🔹 I’m currently a freshman at Bilkent. ( CS Major )
+- 🔹 I’m Ata, currently a sophomore @ Bilkent CS.
 <!--
 **Lqxness/Lqxness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
