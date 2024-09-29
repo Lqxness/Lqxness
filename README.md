@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔹 I’m Ata, currently a sophomore @ Bilkent CS.
+- 🔹 I’m Ata, currently a junior @ Bilkent CS.
 <!--
 **Lqxness/Lqxness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
